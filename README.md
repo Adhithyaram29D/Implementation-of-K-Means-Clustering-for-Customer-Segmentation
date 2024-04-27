@@ -63,7 +63,7 @@ plt.title("Customer Segments")
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/8fe1d138-d646-4d66-be76-b8e8c11eeb6c" width="300">
 
 #### df.isnull().sum():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/51427826-9d7b-460a-bf64-f71335c45c30" width="300">
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/e164792e-7697-4ba6-8e92-da0816e7c552" width="200">
 
 #### Elbow Method Graph:
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/92bc7baa-51e4-48c3-b5f9-fbbdc7efd87a" width="400">
